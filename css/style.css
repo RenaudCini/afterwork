@@ -1,0 +1,96 @@
+nav{
+  height: 50px;
+  background-image: url("../img/girlande.png");
+  background-position: center;
+}
+
+body{
+  background-image: url("../img/528.jpg");
+  background-position: center;
+  background-size: 100%;
+  font-family: "nintendoFont", Helvetica, Arial, sans-serif;
+}
+
+h1{
+  font-size: 80px;
+  color: black;
+}
+h2{
+  color: black;
+  font-size: 60px;
+  margin-top: -20px;
+}
+h3
+{
+  font-size: 50px;
+  color: black;
+}
+h4{
+  text-align: center;
+  color: black;
+  font-size: 40px
+}
+h5{
+  color: black
+}
+p{
+  color: black;
+}
+header{
+  border-bottom: dashed 10px black;
+}
+.cadreTitre{
+  height: 150px;
+  width: 400px;
+  border: solid 10px black;
+  margin: 50px;
+}
+.tcs{
+  height: 150px;
+  width: 1100px;
+  border: solid 10px black;
+  margin: 50px;
+}
+.tac{
+  text-align: center;
+}
+
+.bgRose{
+  background-color: #FD4397;
+  height: 100%
+}
+.bgBleu{
+  background-color: #44CAF9;
+  height: 100%
+}
+.bgYellow{
+  background-color: #FEF10A;
+  height: 100%
+}
+.zoneBlanche{
+  background-image: url("../img/piecePluie.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  background-color: #FFFFFF;
+}
+.lesPapas{
+  border-top: dashed 10px black;
+}
+.avatar{
+  border: solid 10px black;
+}
+@font-face {
+	font-family: "nintendoFont";
+	src: url('../img/NintendoLabo.ttf');
+}
+.bandeauTravaux{
+  width: 100%;
+  height: 30px;
+}
+.textTravaux{
+  text-align: center;
+}
+.iconeReseau{
+  height: 50px;
+}
